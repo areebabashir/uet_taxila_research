@@ -320,7 +320,7 @@ const DashboardCharts: React.FC<DashboardChartsProps> = ({ data, stats, funding,
                     <stop offset="95%" stopColor="#3b82f6" stopOpacity={0.1}/>
                   </linearGradient>
                   <linearGradient id="colorTheses" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor="#10b981" stopOpacity={0.8}
+                    <stop offset="5%" stopColor="#10b981" stopOpacity={0.8}/>
                     <stop offset="95%" stopColor="#10b981" stopOpacity={0.1}/>
                   </linearGradient>
                   <linearGradient id="colorEvents" x1="0" y1="0" x2="0" y2="1">
